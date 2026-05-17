@@ -6,6 +6,8 @@ This project focuses on analyzing call center operational performance using Powe
 
 The dashboard was designed to monitor KPIs, evaluate agent and service performance, and provide actionable operational insights for better decision-making.
 
+Demo_Link: https://app.powerbi.com/links/qJSvaB_7AY?ctid=77255288-5298-4ea5-81aa-a13e604c30ac&pbi_source=linkShare
+
 ---
 
 # 🎯 Business Objectives
