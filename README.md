@@ -133,9 +133,9 @@ call-center-dashboard/
 
 # 📸 Dashboard Preview
 
-![Dashboard](images/Designs/Home_Page.png)
-![Dashboard](images/Designs/dashboard_1.png)
-![Dashboard](images/Designs/dashboard_2.png)
+![Home_Page](Images/Designs/Home_Page.png)
+![Dashboard](Images/Designs/Dashbard_1.png)
+![Agent](Images/Designs/Dashboard_2.png)
 
 ---
 
