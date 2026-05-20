@@ -151,9 +151,10 @@ Potential future enhancements:
 - Automated reporting
 
 
-# 👨‍💻 Created By
+# 👨‍💻 Author 
 
 ### Mohamed Eid
+Data Analyst & Ex-Frontend developer
 
 LinkedIn:
 https://www.linkedin.com/in/mohamedeid25
